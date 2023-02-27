@@ -2,7 +2,7 @@ import { TerrainType } from './enums';
 
 export const TICK_RATE = 20;
 export const PING_INTERVAL = 1000;
-export const BOTS_COUNT = 100;
+export const BOTS_COUNT = 0;
 export const IDLE_DISCONNECT_TIMEOUT = 1000 * 60 * 10;
 
 export const GRID_SIZE = 100;
